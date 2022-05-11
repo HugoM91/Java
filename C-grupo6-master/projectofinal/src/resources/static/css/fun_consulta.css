@@ -1,0 +1,112 @@
+.consulta-top {
+    width: 100%;
+    padding: 30px 50px 10px;
+    border-bottom: solid 1px;
+    border-bottom-color: #BCBCBC;
+}
+
+.top-title {
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+.top-title h2 {
+    color: #2C363E;
+    margin-bottom: 0;
+}
+
+.top-title p {
+    font-size: 20px;
+    color: #7E7E7E;
+}
+
+.top-mid img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    width: 100px;
+}
+
+.top-mid figcaption {
+    padding-top: 10px;
+    text-align: center;
+    font-size: 15px;
+    color: #2C363E;
+}
+
+.consulta-mid {
+    width: 100%;
+    padding: 10px 50px;
+    display: flex;
+    border-bottom: solid 1px;
+    border-bottom-color: #BCBCBC;
+    height: 30%;
+    align-items: center;
+}
+
+.metade {
+    flex: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.metade h5 {
+    color: #BCBCBC;
+}
+
+.metade p {
+    color: #2C363E;
+    font-size: 25px;
+}
+
+.consulta-bottom {
+    padding: 50px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.consulta-bottom form {
+    display: contents;
+}
+
+.consulta-bottom a {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 20%;
+}
+
+.btn-check-in {
+    background: #8AB038;
+    color: #ffffff;
+    border: none;
+    border-radius: 4px;
+    width: 20%;
+}
+
+.btn-check-in:hover {
+    background: #799B31;
+    color: #fff;
+}
+
+.btn-check-in i {
+    margin-right: 10%;
+}
+
+.btn-change {
+    background: #31ADE0;
+    color: #ffffff;
+    border: none;
+    border-radius: 4px;
+}
+
+.btn-change:hover {
+    background: #20A2D5;
+    border: none;
+    color: #fff;
+}

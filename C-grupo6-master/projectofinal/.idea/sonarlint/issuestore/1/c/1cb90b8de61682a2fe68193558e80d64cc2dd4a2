@@ -1,0 +1,17 @@
+
+f	java:S117x"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â²Ï…
+a
+java:S1871R"LThis branch's code block is the same as the block for the branch on line 64.(Ú˜Ú4
+m
+java:S3776="RRefactor this method to reduce its Cognitive Complexity from 52 to the 15 allowed.(×Ù¢üÿÿÿÿ
+b
+java:S1871["LThis branch's code block is the same as the block for the branch on line 64.(àÃö»
+E
+java:S1128"/Remove this unused import 'java.util.Calendar'.(ÿÛö´
+k	java:S117s"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ö‘Ğşÿÿÿÿ
+g
+java:S1871d"LThis branch's code block is the same as the block for the branch on line 64.(·öŸùÿÿÿÿ
+g
+java:S1871I"LThis branch's code block is the same as the block for the branch on line 64.(îÂˆ×ıÿÿÿÿ
+B
+java:S2201n",The return value of "plusDays" must be used.(…¥×

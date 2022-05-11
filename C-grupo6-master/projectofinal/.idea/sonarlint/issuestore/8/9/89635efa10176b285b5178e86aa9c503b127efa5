@@ -1,0 +1,52 @@
+
+p	java:S100“"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( åãÊùÿÿÿÿ8åÞ¶¿‚/
+J
+java:S1128"-Remove this unused import 'java.time.ZoneId'.( Æ½“8Üž¸Ï„/
+^
+java:S4684Œ"@Replace this persistent entity with a simple POJO or DTO object.(Öœ³ƒ8åÞ¶¿‚/
+\
+java:S1128"?Remove this unused import 'java.time.format.DateTimeFormatter'.(‰÷÷ª8Üž¸Ï„/
+z
+java:S3753"XAdd a call to "setComplete()" on the SessionStatus object in a "@RequestMapping" method.(Ù¼«Çÿÿÿÿÿ8‘†ðÓÿ.
+p	java:S100¾"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øò°˜þÿÿÿÿ8åÞ¶¿‚/
+j	java:S100ö"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³–Ú 8åÞ¶¿‚/
+]
+java:S4684¸"@Replace this persistent entity with a simple POJO or DTO object.(ÔÀÀ(8Üž¸Ï„/
+z
+java:S1192Ì"WDefine a constant instead of duplicating this literal "redirect:/fun_consulta" 3 times.(ïÏ™Èþÿÿÿÿ8åÞ¶¿‚/
+c
+java:S4684á"@Replace this persistent entity with a simple POJO or DTO object.(×áÂ”ûÿÿÿÿ8åÞ¶¿‚/
+^
+java:S1854@"<Remove this useless assignment to local variable "username".(´ø¹Âþÿÿÿÿ8ÜÓó‹„/
+]
+java:S4684Y"@Replace this persistent entity with a simple POJO or DTO object.(ô€å®8ÜÓó‹„/
+j	java:S100:"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“î³Ó8ÜÓó‹„/
+c
+java:S4684Ê"@Replace this persistent entity with a simple POJO or DTO object.(ï€Œ¶ùÿÿÿÿ8åÞ¶¿‚/
+J
+java:S1481<"-Remove this unused "username" local variable.(™ä°­8ÜÓó‹„/
+j	java:S100d"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²¾¢¤8ÜÓó‹„/
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(Çñ‘¿úÿÿÿÿ8‘†ðÓÿ.
+k	java:S100Œ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öœ³ƒ8åÞ¶¿‚/
+U
+java:S1135É"2Complete the task associated to this TODO comment.(¥òäúüÿÿÿÿ8ÜÓó‹„/
+p	java:S100ì"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éî¶‰ûÿÿÿÿ8Üž¸Ï„/
+p	java:S100Ê"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï€Œ¶ùÿÿÿÿ8åÞ¶¿‚/
+Y	java:S125Å"<This block of commented-out lines of code should be removed.(Ü÷¹‘8åÞ¶¿‚/
+o	java:S100I"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È¤Œêþÿÿÿÿ8ÜÓó‹„/
+r	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÅˆœûÿÿÿÿ8‘†ðÓÿ.
+^
+java:S4684¨"@Replace this persistent entity with a simple POJO or DTO object.(Âççˆ8åÞ¶¿‚/
+P
+java:S1128".Remove this unused import 'java.time.Instant'.(Â‚éñÿÿÿÿÿ8Üž¸Ï„/
+k	java:S100Ð"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»¥Ó8åÞ¶¿‚/
+e
+java:S1192‡"GDefine a constant instead of duplicating this literal "utente" 4 times.(ïã™8åÞ¶¿‚/
+Y
+java:S1854>"<Remove this useless assignment to local variable "username".(ÚŒ•8ÜÓó‹„/
+U	java:S106w"9Replace this use of System.out or System.err by a logger.(¡õÈå8Üž¸Ï„/
+c
+java:S4684Û"@Replace this persistent entity with a simple POJO or DTO object.(Œåôöøÿÿÿÿ8åÞ¶¿‚/
+[
+java:S1128	"9Remove this unused import 'org.springframework.ui.Model'.(ê†ýÿÿÿÿ8åÞ¶¿‚/
+p	java:S100û"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è©«þüÿÿÿÿ8åÞ¶¿‚/

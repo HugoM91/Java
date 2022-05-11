@@ -1,0 +1,29 @@
+Colours - Black , Red , Green
+code - b , r , g
+
+Enemy - Code
+BadGuy - e
+Bat - B
+Fire - F
+Skeleton - k
+Thief - t 
+Trap - T
+
+
+Items
+
+Sword - E
+Hammer - H
+GoodMeat - M
+
+Set
+
+DoorClosed - o
+Door Opened - O
+Door Way - w
+Grass - G
+Key - K
+StairsDown - s
+StairsUp - S
+Wall - W
+

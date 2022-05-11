@@ -1,0 +1,154 @@
+.container-edit-utente {
+    padding: 3% 5%;
+    margin: 0;
+    height: 100%;
+}
+
+.ep-contboss {
+    font-size: 90%;
+}
+
+.ep-contboss,
+.ep-cont,
+.ep-contacto-cont,
+.ep-morada-cont,
+.ep-morada-collumn,
+#ep-morada-column-all,
+.ep-account,
+.ep-acc-cont {
+    display: flex;
+}
+
+.ep-container,
+.ep-contacto-cont,
+.ep-morada-cont,
+#ep-morada-column-all,
+.ep-account,
+.ep-acc-cont {
+    flex-direction: column;
+}
+
+#ep-contacto-info,
+.ep-contacto-cont label,
+.ep-morada-cont label,
+.ep-acc-cont label,
+#ep-botsavee,
+#ep-botsave {
+    color: rgb(128, 128, 128);
+}
+
+.ep-contacto-cont label:hover,
+.ep-morada-cont label:hover,
+.ep-acc-cont label:hover {
+    color: #000;
+}
+
+.ep-info,
+.ep-account {
+    background-color: rgba(255, 255, 255, 0.5);
+    box-shadow: 6px 5px 10px rgba(126, 126, 126, 0.3);
+}
+
+.ep-morada-cont,
+.ep-contacto-cont {
+    padding: 2vh;
+}
+
+.ep-info {
+    width: 40vw;
+}
+
+.ep-contacto-cont,
+#ep-morada-column-all {
+    width: 26%;
+}
+
+.ep-morada-collumn {
+    width: 100%;
+}
+
+.ep-morada-cont input {
+    width: 70%;
+}
+
+.ep-account {
+    width: 40%;
+    margin-left: 2vw;
+    height: fit-content;
+}
+
+.ep-acc-cont {
+    margin: 5vh 2vw;
+}
+
+.ep-acc-cont label {
+    margin: 2vh 0 1vh 0;
+}
+
+#ep-titles {
+    margin: 2vh;
+}
+
+.ep-contacto-cont label,
+.ep-morada-cont label {
+    margin: 2vh 1vw 1vh 1vw;
+}
+
+#ep-mtitle,
+.ep-account,
+.ep-info,
+#ep-botsave {
+    margin-top: 5vh;
+}
+
+#ep-morada-column-all,
+.ep-acc-cont input {
+    margin-bottom: 1vh;
+}
+
+.ep-contacto-cont input,
+.ep-morada-cont input,
+.ep-morada-cont textarea {
+    margin-left: 1vw;
+}
+
+#ep-botsavee,
+#ep-botsave {
+    padding: 1vh;
+    font-size: 100%;
+    background-color: white;
+    border-color: white;
+}
+
+#ep-botsave:hover,
+#ep-botsavee:hover {
+    background-color: #98c33e;
+    color: white;
+}
+
+#ep-botsavee {
+    width: 45%;
+    margin: 4vh 10vw;
+}
+
+.ep-acc-cont-med-perfil {
+    margin: 2vh 0 1vh 0;
+    height: 100%;
+}
+
+.ep-account-med-perfil {
+    background-color: rgba(255, 255, 255, 0.5);
+    box-shadow: 6px 5px 10px rgba(126, 126, 126, 0.3);
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    margin-left: 2vw;
+    height: 67vh;
+    padding: 1 2%;
+    margin-top: 5vh;
+}
+
+.ck.ck-editor {
+    position: relative;
+    height: 100%
+}

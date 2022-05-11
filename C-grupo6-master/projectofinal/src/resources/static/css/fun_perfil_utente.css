@@ -1,0 +1,147 @@
+.profile-container {
+    padding: 3% 5%;
+    margin: 0;
+    height: 100%;
+    overflow: scroll;
+}
+
+.profile-page-top {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.personal-details-card {
+    display: flex;
+    flex-direction: row;
+    background: white;
+    border-radius: 4px;
+    width: 70%;
+    height: auto;
+    color: #2C363E;
+}
+
+
+.personal-notes-card h4 {
+    font-weight: bold;
+}
+
+.personal-notes-card {
+    background: white;
+    border-radius: 4px;
+    width: 28%;
+    height: auto;
+    padding: 3%;
+}
+
+.personal-notes-content {
+    margin-top: 10%;
+}
+
+.personal-details-card label {
+    color: #7E7E7E;
+    margin-bottom: 3%;
+}
+
+.personal-details-card-left-top {
+    align-items: center;
+    text-align: center;
+    border-bottom: #BCBCBC solid 1px;
+}
+
+.personal-details-card-left-bottom {
+    margin-top: 5%;
+}
+
+.personal-details-top p {
+    color: #7E7E7E;
+}
+
+.avatar-utente {
+    border-radius: 50%;
+    width: 35%;
+    margin-bottom: 5%;
+}
+
+.personal-details-card-left {
+    width: 50%;
+    padding: 5%;
+    border-right: #BCBCBC solid 1px;
+    color: #2C363E;
+}
+
+.personal-details-card-right {
+    width: 50%;
+    padding: 5%;
+    color: #2C363E;
+}
+
+.personal-details-card-right h4 {
+    margin-bottom: 10%;
+    font-weight: bold;
+}
+
+.personal-details-row {
+    margin-bottom: 5%;
+}
+
+.personal-details-row span {
+    margin-right: 5%;
+}
+
+.personal-details-group {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.personal-details-row-left {
+    width: 50%;
+}
+
+.personal-details-row-right {
+    width: 50%;
+}
+
+.personal-appointments-history-card {
+    margin-top: 2%;
+    width: 100%;
+    background: white;
+    height: auto;
+    color: #2C363E;
+    padding: 5%;
+    border-radius: 4px;
+}
+
+.personal-appointments-history-card h4 {
+    font-weight: bold;
+}
+
+.personal-appointments-history-top {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.personal-cv-card {
+    margin-top: 2%;
+    width: 100%;
+    background: white;
+    height: auto;
+    color: #2C363E;
+    padding: 5%;
+    border-radius: 4px;
+}
+
+.personal-cv-card h4 {
+    font-weight: bold;
+}
+
+.personal-cv-top {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.personal-cv-bottom  {
+    margin-top: 3%;
+}

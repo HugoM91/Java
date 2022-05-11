@@ -1,0 +1,15 @@
+
+U	java:S106""9Replace this use of System.out or System.err by a logger.(äÑ·…8é€Îã„/
+V	java:S125!"<This block of commented-out lines of code should be removed.(úÆóÏùÿÿÿÿ
+[
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(µûœêùÿÿÿÿ
+s
+java:S3753"XAdd a call to "setComplete()" on the SessionStatus object in a "@RequestMapping" method.(Ù¼«Çÿÿÿÿÿ
+Q	java:S125;"<This block of commented-out lines of code should be removed.(óº„†
+_
+java:S1192"IDefine a constant instead of duplicating this literal "username" 5 times.(«ğ¨Õ
+s
+java:S1128"VRemove this unused import 'org.springframework.security.core.userdetails.UserDetails'.(ÊÁ¥8é€Îã„/
+Z
+java:S1128"8Remove this unused import 'com.example.entity.Consulta'.(ä©ıÍÿÿÿÿÿ8é€Îã„/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(—‘øÓùÿÿÿÿ

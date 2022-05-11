@@ -1,0 +1,59 @@
+.table-search-patient {
+    width: 100%;
+    background: white;
+    opacity: 1;
+    padding: 25px;
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+}
+
+.search-patient {
+    width: 80%;
+}
+
+.btn-novo-utente {
+    background: #8AB038;
+    color: #ffffff;
+    border-radius: 4px;
+    margin-bottom: 1%;
+}
+
+.btn-novo-utente:hover {
+    background: #799B31;
+    color: #fff;
+}
+
+.table-content-users {
+    overflow-y: auto;
+    color: #2C363E;
+    font-size: 14px;
+    padding: 0 25px;
+}
+
+.table-content-users tr {
+    border-radius: 4px;
+    padding-left: inherit;
+    padding-right: inherit;
+}
+
+.table-content-users td {
+    padding-left: inherit;
+    padding-right: inherit;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    background: white;
+    flex-direction: row;
+    align-items: center;
+    vertical-align: middle;
+}
+
+.table-content-users td.table-user-avatar {
+    background: #83CEEC;
+}
+
+.bi-person-circle {
+    font-size: 200%;
+}

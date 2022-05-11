@@ -1,0 +1,19 @@
+
+S
+java:S1854…"<Remove this useless assignment to local variable "username".(ÚŒ•
+[
+java:S4684/"@Replace this persistent entity with a simple POJO or DTO object.(‚ç¸İşÿÿÿÿ
+\
+java:S4684¡"@Replace this persistent entity with a simple POJO or DTO object.(ÚÌğÍûÿÿÿÿ
+D
+java:S1481ƒ"-Remove this unused "username" local variable.(™ä°­
+U
+java:S4684="@Replace this persistent entity with a simple POJO or DTO object.(Š§ç3
+i	java:S100‘"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À§„¢üÿÿÿÿ
+X
+java:S1854‡"<Remove this useless assignment to local variable "username".(´ø¹Âşÿÿÿÿ
+s
+java:S3753"XAdd a call to "setComplete()" on the SessionStatus object in a "@RequestMapping" method.(Ù¼«Çÿÿÿÿÿ
+K
+java:S1128"6Remove this unused import 'com.example.entity.Utente'.(é•½B
+R	java:S125¦"<This block of commented-out lines of code should be removed.(¼¾›“

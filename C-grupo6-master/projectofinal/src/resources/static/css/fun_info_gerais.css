@@ -1,0 +1,52 @@
+.ig-container {
+    margin: 0 5% 3% 5%;
+    font-size: 120%;
+    margin-top: 3%;
+}
+
+.info-geral-container {
+    display: flex;
+    background-color: rgba(255, 255, 255, 0.5);
+    flex-direction: column;
+    font-size: 80%;
+    padding: 0 1.5vw 1.5vh 1.5vw;
+    width: 100%;
+}
+
+#localizacaoClinica-logo {
+    width: 100%;
+}
+
+#mapaClinica-logo {
+    width: 40%;
+}
+
+.ig-entidadesParceiras-logo {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+#ig-logo {
+    margin: 2%;
+    padding: 1%;
+    background-color: rgba(255, 255, 255, 1);
+    width: 8%;
+}
+
+.info-morada {
+    margin: 1.5%;
+}
+
+.ig-all-titles {
+    margin-top: 3%;
+    font-size: 140%;
+    font-weight: bold;
+}
+
+#ig-inf-bottom {
+    font-size: 70%;
+    text-align: center;
+
+}

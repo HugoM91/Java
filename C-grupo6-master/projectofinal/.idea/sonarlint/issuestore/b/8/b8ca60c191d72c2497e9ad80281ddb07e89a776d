@@ -1,0 +1,16 @@
+
+c	java:S100>"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯¦ÿÔ
+h	java:S100V"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²Õ¤Åûÿÿÿÿ
+S	java:S106K"9Replace this use of System.out or System.err by a logger.(µÃ¸øÿÿÿÿ
+Q	java:S125J"<This block of commented-out lines of code should be removed.(ÈÒŞ
+k
+java:S1192["PDefine a constant instead of duplicating this literal "/fun_calendario" 3 times.(œä»şúÿÿÿÿ
+V
+java:S4684b"@Replace this persistent entity with a simple POJO or DTO object.(ÙÎÆ
+b
+java:S1192&"LDefine a constant instead of duplicating this literal "medicosList" 4 times.(à»µş
+[
+java:S4684G"@Replace this persistent entity with a simple POJO or DTO object.(¦Õàêûÿÿÿÿ
+n
+java:S3753"XAdd a call to "setComplete()" on the SessionStatus object in a "@RequestMapping" method.(µ³Ç¿
+b	java:S100$"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ’Ë:

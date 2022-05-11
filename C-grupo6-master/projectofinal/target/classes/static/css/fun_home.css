@@ -1,0 +1,199 @@
+/* HIGH MAIN*/
+
+.high-main {
+    display: flex;
+    align-items: center;
+    padding: 2% 0% 4% 5%;
+}
+
+#high-img {
+    display: flex;
+    padding: 1% 5% 1% 0%;
+}
+
+#high-text-container {
+    display: flex;
+    flex-direction: column;
+    padding-right: 5%;
+}
+
+#high-text-title {
+    padding-bottom: 2%;
+    font-size: 120%;
+    font-weight: bold;
+    color: rgb(44, 54, 62);
+}
+
+#high-text-info {
+    display: flex;
+    font-size: 110%;
+    color: rgb(126, 126, 126);
+}
+
+/* MID MAIN*/
+
+.mid-main {
+    margin-left: 4%;
+    display: flex;
+    align-items: center;
+    padding-right: 55%;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+#mid-text-title {
+    font-size: 70%;
+    padding: 0% 0% 1% 4%;
+    color: rgb(128, 128, 128);
+}
+
+.mid-first-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#mid-wait-img {
+    padding: 3vh 6vw 1vh 6vw;
+}
+
+#mid-text-utentes {
+    padding-top: 1vh;
+    text-align: center;
+    font-size: 110%;
+    color: rgba(00, 00, 00, 0.6);
+}
+
+#mid-text-utentes-variable {
+    color: rgb(44, 54, 62);
+    font-weight: bold;
+}
+
+#mid-text-await {
+    text-align: center;
+    font-size: 70%;
+    font-weight: bold;
+    color: rgb(44, 54, 62);
+}
+
+#mid-text-late {
+    padding: 2vh 0 3vh 0;
+    text-align: center;
+    font-size: 70%;
+    color: rgb(126, 126, 126);
+}
+
+#mid-first-list {
+    padding: 1vh 1vh;
+    color: rgb(44, 54, 62);
+}
+
+#mid-first-button {
+    color: #707070;
+    margin-bottom: 4vh;
+    border-radius: 4px;
+    border: #707070 solid 1px;
+    font-weight: 400;
+}
+
+#mid-first-button:hover {
+    outline: none;
+    font-weight: 700;
+}
+
+#mid-first-button a {
+    text-decoration: none;
+}
+
+.mid-second-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+    height: 13rem;
+}
+
+#mid-checkin {
+    font-size: 70%;
+    font-weight: bold;
+    text-align: center;
+    padding: 2vh 5vw 1vh 5vw;
+}
+
+#mid-consulta-info {
+    font-size: 70%;
+    text-align: center;
+    font-weight: bold;
+    padding: 1.5vh 4vh;
+    color: #98C33E;
+}
+
+#mid-consulta-id {
+    padding: 1vh 1vh;
+    margin: 2vh 0 2vh 0;
+}
+
+#mid-consulta-id:hover {
+    border-style: solid;
+    border-radius: 4px;
+}
+
+#mid-second-submit {
+    padding: 1vh 1vh;
+}
+
+#mid-second-button {
+    border-style: unset;
+    background-color: white;
+}
+
+#mid-second-button:hover {
+    border-bottom: 2px solid #98C33E;
+    border-radius: 1vh;
+    font-weight: bold;
+}
+
+/* LOW MAIN*/
+
+#low-main {
+    display: block;
+    padding-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.carousel-align-center{
+    margin-left: 15%;
+    margin-top:6%;
+    width: 60%;
+}
+
+/* Admin CSS Registar Empregados */
+.adm-mid-second-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 5%;
+}
+
+#adm-registar-emp-title {
+    display: flex;
+    font-weight: bold;
+    margin: 10%;
+    width: 8vw;
+
+}
+
+.adm-registar-format {
+    margin: 5%;
+}
+
+@media screen and (max-height: 450px) {
+    .sidenav {
+        padding-top: 15px;
+    }
+
+    .sidenav a {
+        font-size: 18px;
+    }
+}

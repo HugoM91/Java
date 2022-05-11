@@ -1,0 +1,14 @@
+
+i	java:S100‚"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë™ ãúÿÿÿÿ
+e
+java:S1128"HRemove this unused import 'com.example.repositories.ConsultaRepository'.(êö¢Ø8ÎùÒÕ„/
+c
+java:S4684‚"@Replace this persistent entity with a simple POJO or DTO object.(Ë™ ãúÿÿÿÿ8¼’³Þ„/
+c
+java:S4684‚"@Replace this persistent entity with a simple POJO or DTO object.(Ë™ ãúÿÿÿÿ8¼’³Þ„/
+V	java:S125l"<This block of commented-out lines of code should be removed.(ÑÂÞÄÿÿÿÿÿ
+b
+java:S4684e"@Replace this persistent entity with a simple POJO or DTO object.(´Œ–àüÿÿÿÿ8¼’³Þ„/
+S	java:S106m"9Replace this use of System.out or System.err by a logger.(éþÅþÿÿÿÿ
+z
+java:S3753"XAdd a call to "setComplete()" on the SessionStatus object in a "@RequestMapping" method.(Ù¼«Çÿÿÿÿÿ8ÎùÒÕ„/

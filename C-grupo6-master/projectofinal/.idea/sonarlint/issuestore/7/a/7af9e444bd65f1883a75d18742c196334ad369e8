@@ -1,0 +1,13 @@
+
+]
+java:S2095'"GUse try-with-resources or close this "Statement" in a "finally" clause.(˜ğ×
+_
+java:S1192*"IDefine a constant instead of duplicating this literal "password" 3 times.(Œ‡ğ„
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(ïù¯¯ûÿÿÿÿ
+^
+java:S2095#"HUse try-with-resources or close this "Connection" in a "finally" clause.(º¤¿ê
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(ê­ºŞ
+P
+java:S1128"5Remove this unused import 'com.example.entity.Login'.(¨Ù“Öıÿÿÿÿ
+_
+java:S1192+"IDefine a constant instead of duplicating this literal "usertype" 3 times.(Áº´ù

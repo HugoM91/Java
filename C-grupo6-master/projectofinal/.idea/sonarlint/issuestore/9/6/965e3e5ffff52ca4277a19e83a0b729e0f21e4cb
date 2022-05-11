@@ -1,0 +1,7 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ ü†þÿÿÿÿ8¬ƒ½Ù„/
+X
+java:S1128";Remove this unused import 'com.example.entity.Funcionario'.(þš’È8¬ƒ½Ù„/
+R
+java:S1128"6Remove this unused import 'com.example.entity.Utente'.(é•½B8¬ƒ½Ù„/
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ ü†þÿÿÿÿ8¬ƒ½Ù„/

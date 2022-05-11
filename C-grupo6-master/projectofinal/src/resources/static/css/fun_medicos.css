@@ -1,0 +1,15 @@
+.table-search-doctor {
+    width: 100%;
+    background: white;
+    opacity: 1;
+    padding: 25px;
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+}
+
+.search-doctor {
+    width: 80%;
+}

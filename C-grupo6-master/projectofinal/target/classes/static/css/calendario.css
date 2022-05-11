@@ -1,0 +1,145 @@
+.calendar-content {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 100vh;
+}
+
+.calendar {
+    background-color: #ffffff;
+    border: 0.2vh;
+    border-top-left-radius: 4px;
+    width: 50%;
+    height: 100vh;
+}
+
+.botoes-container {
+    padding: 3% 0;
+    display: flex;
+    justify-content: space-evenly;
+    border-top-left-radius: 4px;
+    background-color: #ffffff;
+}
+
+#botoes_id {
+    width: 30%;
+    padding: 4px;
+    font-size: 75%;
+    border-color: #707070;
+    border-radius: 4px;
+}
+
+.botoes-container:hover {
+    color: rgb(152, 195, 62);
+}
+
+#lupa_id {
+    width: 10%;
+}
+
+.weekdays {
+    margin: 0;
+    padding: 1% 0 0 0;
+}
+
+.weekdays li {
+    display: inline-block;
+    width: 13%;
+    color: #666;
+    text-align: center;
+    font-size: 90%;
+}
+
+.days {
+    padding: 0;
+    margin: 0;
+}
+
+.days li {
+    list-style-type: none;
+    display: inline-block;
+    width: 13%;
+    text-align: center;
+    margin: 4% 0;
+    font-size: 80%;
+    color: #777;
+}
+
+.days li .active {
+    padding: 10%;
+    background: #8AB038;
+    color: white !important;
+    border-radius: 50%;
+}
+
+.days li:hover {
+    color: black;
+}
+
+.container-vagas {
+    font-size: 80%;
+    border: 0.2vh;
+    padding: 1% 2%;
+    width: 30%;
+}
+
+/* Botoes Comuns de paginas? */
+
+#botao-pesquisar {
+    background: #8AB038;
+    color: white !important;
+    border: none;
+    font-size: 100%;
+    border-radius: 80px;
+    width: 100%;
+    height: 4%;
+}
+
+#botao-pesquisar:hover {
+    background: #799B31;
+}
+
+#fimIntervalo, #inicioIntervalo, #fimTurno, #inicioTurno{
+    padding-left: 5%;
+    letter-spacing: 0.5vw;
+}
+#dia_semana, #c-medico, #fimIntervalo, #inicioIntervalo, #fimTurno, #inicioTurno{
+    font-size: 110%;
+    margin-bottom: 5%;
+    width: 70%;
+    height: 5%;
+}
+
+/* Medico CSS */
+
+#med-gerar-horario-t{
+    margin: 18% 0 12% 0;
+}
+
+.med-container-vagas{
+    margin-top: 3%;
+    font-size: 90%;
+    border: 0.2vh;
+    padding: 1% 2%;
+    width: 12%;
+}
+
+.med-calendar-resize-table{
+    padding-top: 1%;
+    width: 70%;
+    overflow: scroll;
+    height: 88%;
+}
+
+.med-calendar{
+    background-color: #ffffff;
+    border: 0.2vh;
+    border-top-left-radius: 4px;
+    width: 30%;
+    height: 100vh;
+    padding: 0 4%;
+}
+
+#AHHHHHHHHH{
+    margin-top: 3%;
+}

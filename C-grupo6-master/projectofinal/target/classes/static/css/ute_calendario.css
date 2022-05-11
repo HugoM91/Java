@@ -1,0 +1,14 @@
+#calendar-table-scrollable {
+    height: 87%;
+    width: 70%;
+    overflow-y: scroll;
+}
+
+.ute-calendar{
+    background-color: #ffffff;
+    border-right: 0.1vh solid rgba(152, 195, 62, 0.3);
+    border-top-left-radius: 4px;
+    width: 30%;
+    height: 100vh;
+    padding: 0 4%;
+}

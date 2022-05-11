@@ -1,0 +1,62 @@
+body {
+    background-image: url(../images_web/Bg_ap2x.png);
+    padding-top: 2%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.wdiÂ {
+    color: #2C363E;
+    opacity: 1;
+    font-weight: 700;
+}
+
+.login-box {
+    background: rgb(255, 255, 255, 0.6);
+    padding: 50px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1%), 0 6px 20px 0 rgba(0, 0, 0, 1%);
+    border-radius: 4px;
+}
+
+.top {
+    margin-bottom: 60px;
+}
+
+.logo-img {
+    width: 400px;
+    height: 200px;
+}
+
+.flat-input {
+    margin-bottom: 50px;
+    border: none;
+    border-radius: 0;
+    border-bottom: 1px solid #2C363E;
+    background: rgba(0, 0, 0, 0);
+    background-position: -500px 0;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.flat-input:focus {
+    box-shadow: none;
+    outline: none;
+    background: rgba(0, 0, 0, 0);
+    border-bottom: 1px solid #2C363E;
+    background-position: 0 0;
+}
+
+.btn-login {
+    border-radius: 80px;
+    background: #8AB038;
+    color: #fff;
+    width: 100%;
+}
+
+.btn-login:hover {
+    background: #799B31;
+    color: #fff;
+}

@@ -1,0 +1,30 @@
+
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(µĞÑù8»ªäÙ„/
+[
+java:S4973Y"9Use the "equals" method if value comparison was intended.(äù‘Óøÿÿÿÿ8‡·°Ù„/
+s
+java:S3457o"Q%n should be used in place of \n to produce the platform-specific line separator.(¥§Ûåşÿÿÿÿ8‡·°Ù„/
+U	java:S106s"9Replace this use of System.out or System.err by a logger.(ê­ºŞ8‡·°Ù„/
+Z	java:S106o"9Replace this use of System.out or System.err by a logger.(¥§Ûåşÿÿÿÿ8‡·°Ù„/
+Z	java:S106t"9Replace this use of System.out or System.err by a logger.(ïù¯¯ûÿÿÿÿ8‡·°Ù„/
+[
+java:S4973U"9Use the "equals" method if value comparison was intended.(ÔÉ¾‹ÿÿÿÿÿ8‡·°Ù„/
+V
+java:S4973["9Use the "equals" method if value comparison was intended.(»¢ ›8‡·°Ù„/
+F
+java:S2115L")Add password protection to this database.(º²ƒ8‡·°Ù„/
+e
+java:S2095L"HUse try-with-resources or close this "Connection" in a "finally" clause.(º²ƒ8‡·°Ù„/
+U	java:S106`"9Replace this use of System.out or System.err by a logger.(ÿõÒÃ8‡·°Ù„/
+V
+java:S4973W"9Use the "equals" method if value comparison was intended.(í‡ˆò8‡·°Ù„/
+r	java:S117E"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÖ‘Ïÿÿÿÿÿ8‡·°Ù„/
+d
+java:S2095d"GUse try-with-resources or close this "Statement" in a "finally" clause.(˜ğ×8‡·°Ù„/
+v
+java:S2293-"YReplace the type specification in this constructor call with the diamond operator ("<>").(µĞÑù8Ø–¸Ü„/
+V
+java:S4973S"9Use the "equals" method if value comparison was intended.(…ö„—8‡·°Ù„/
+[
+java:S4973]"9Use the "equals" method if value comparison was intended.(£Í†šúÿÿÿÿ8‡·°Ù„/

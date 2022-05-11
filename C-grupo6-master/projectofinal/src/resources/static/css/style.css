@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&display=swap');
+/*Google Fonts*/
+@import url("sidebar.css");
+@import url("fun_home.css");
+@import url("fun_consultas.css");
+@import url("fun_consulta.css");
+@import url("contactos.css");
+@import url("calendario.css");
+@import url("fun_utentes.css");
+@import url("fun_medicos.css");
+@import url("registo_utente.css");
+@import url("registo_medico.css");
+@import url("fun_perfil.css");
+@import url("fun_editar_perfil.css");
+@import url("fun_info_gerais.css");
+@import url("fun_perfil_utente.css");
+@import url("editar_perfil_utente.css");
+@import url("med_ongoing_consulta.css");
+@import url("fun_nova_consulta.css");
+@import url("ute_calendario.css");
+@import url("lista_espera.css");
+@import url("ute_marcar_consulta.css");
+@import url("admin_utentes.css");
+@import url("ute_home.css");
+@import url("med_consulta_details.css");
+
+body {
+    font-family: "Lato", sans-serif;
+    background-image: url("/images_web/Bg_ap.png");
+    background-size: 100vw;
+    margin: 0;
+}
+
+.main {
+    margin-left: 21%; /* Same as the width of the sidenav */
+    font-size: 100%;
+}
+
+.container {
+    padding: 3% 5%;
+    margin: 0;
+    height: 100%;
+    overflow: hidden;
+}
+
+.page-title {
+    padding-bottom: 2vh;
+}
+
+.page-title h2 {
+    display: flex;
+    align-items: center;
+    color: #2C363E;
+    font-weight: 700;
+}
+
+.page-title img {
+    padding-right: 0.8vw;
+}
+
+.page-content {
+    background: rgba(255, 255, 255, 0.5);
+    box-shadow: 0 0 1px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.1);
+    border-radius: 1%;
+    height: 110vh;
+}

@@ -1,0 +1,52 @@
+.center {
+    background-color: rgba(255, 255, 255, 0.5);
+    width: 100%;
+}
+
+#searchcontact {
+    width: 40%;
+    padding: 0.5%;
+    font-size: 80%;
+    border-radius: 1vh;
+    border-style: unset;
+    border-color: #7E7E7E;
+}
+
+.table-contactos table {
+    font-size: 80%;
+    border-collapse: collapse;
+    width: 80%;
+    border: 1px solid #7E7E7E;
+}
+
+#contact-head th {
+    font-size: 15px;
+}
+
+#contact-content td {
+    text-align: left;
+    padding: 20px 25px;
+    background: white;
+    flex-direction: row;
+    align-items: center;
+    vertical-align: middle;
+    color: #2C363E;
+}
+
+#contact-content tr:nth-child(2n+1) {
+    background-color: rgba(152, 195, 62, 0.5);
+}
+
+.ut-c-container {
+    display: flex;
+    flex-direction: column;
+    font-size: 120%;
+    line-height: 1.5;
+    padding: 2%;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+#ut-c-shortinfo {
+    margin-bottom: 3%;
+    font-size: 110%;
+}

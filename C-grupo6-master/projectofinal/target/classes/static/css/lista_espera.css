@@ -1,0 +1,44 @@
+.leu-container {
+    padding: 3% 5%;
+    margin: 0;
+    height: auto;
+    overflow: hidden;
+}
+
+.leu-mid-first-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-right: 4vw;
+    border-right: 0.1vh solid rgba(126, 126, 126, 0.5);
+}
+
+.leu-mid-second-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 3vw;
+}
+
+.leu-top-main-cont {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: rgba(255, 255, 255, 0.5);
+    margin: 0 12% 4% 12%;
+    box-shadow: 2px 5px 10px rgba(126, 126, 126, 0.3);
+    border-radius: 1%;
+}
+
+#leu-text-pc {
+    text-align: center;
+    font-size: 140%;
+    color: #98C33E;
+}
+
+#leu-text-num {
+    padding: 2vh 0 3vh 0;
+    text-align: center;
+    font-size: 130%;
+    font-weight: bold;
+}

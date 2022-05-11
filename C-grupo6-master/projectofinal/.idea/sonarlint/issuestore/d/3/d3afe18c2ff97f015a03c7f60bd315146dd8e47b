@@ -1,0 +1,9 @@
+
+CWeb:BoldAndItalicTagsCheck"Replace this <i> tag by <em>.(…ßĞ
+g Web:TableHeaderHasIdOrScopeCheck'";Add either an 'id' or a 'scope' attribute to this <th> tag.(Œˆìè
+g Web:TableHeaderHasIdOrScopeCheck%";Add either an 'id' or a 'scope' attribute to this <th> tag.(ãÂÚº
+g Web:TableHeaderHasIdOrScopeCheck#";Add either an 'id' or a 'scope' attribute to this <th> tag.(‘ßŒµ
+MWeb:TableWithoutCaptionCheck " Add a description to this table.(´øãäşÿÿÿÿ
+g Web:TableHeaderHasIdOrScopeCheck$";Add either an 'id' or a 'scope' attribute to this <th> tag.(æËİâ
+g Web:TableHeaderHasIdOrScopeCheck&";Add either an 'id' or a 'scope' attribute to this <th> tag.(¸ßÀ¡
+^Web:DoctypePresenceCheck":Insert a <!DOCTYPE> declaration to before this <html> tag.(¦»„ƒ

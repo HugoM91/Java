@@ -1,0 +1,17 @@
+#admin-actions {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#btn-details-admin {
+    background: #31ADE0;
+    border: none;
+    height: 1%;
+    font-size: 115%;
+}
+
+#btn-details-admin:hover {
+    background: #20A2D5;
+    border: none;
+}

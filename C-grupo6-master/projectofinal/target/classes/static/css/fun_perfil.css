@@ -1,0 +1,146 @@
+.p-title-cont,
+.p-botaoeditar-cont,
+.p-info-cont,
+.p-acc-boss,
+#p-botaoeditar {
+    display: flex;
+}
+
+#p-botaoeditar,
+.p-infopessoais {
+    background-color: white;
+    box-shadow: 6px 5px 10px rgba(126, 126, 126, 0.3);
+}
+
+.p-acc-boss {
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.p-title-cont {
+    align-items: center;
+    margin: 2% 0 1% 10%;
+}
+
+.p-resizeimage {
+    width: 2.5vw;
+    height: 5vh;
+}
+
+/* resizes image */
+.p-resizeimage img {
+    width: 100%;
+    height: auto;
+}
+
+#p-title {
+    margin-left: 1vh;
+}
+
+.p-botaoeditar-cont {
+    flex-direction: column;
+    width: fit-content;
+    align-items: flex-end;
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 1vh;
+    font-size: 80%;
+    margin-left: 10%;
+}
+
+#p-botaoeditar {
+    justify-content: center;
+    text-decoration: none;
+    width: 90%;
+    border-color: rgba(255, 255, 255, 0);
+    padding: 1vh;
+    color: rgb(128, 128, 128);
+    margin-top: 5vh;
+    font-size: 70%;
+}
+
+#p-botaoeditar:hover {
+    background-color: #98c33e;
+    color: black;
+}
+
+#lelo {
+    margin-top: 4vh;
+}
+
+.p-infopessoais {
+    padding: 0 3vh 1vh 3vh;
+    margin-right: 8vh;
+    width: 40vw;
+    font-size: 110%;
+}
+
+#p-info,
+#p-acc-info {
+    margin-bottom: 2vh;
+    color: rgb(128, 128, 128);
+}
+
+#p-info:hover,
+#p-acc-info:hover {
+    color: black;
+}
+
+.p-acc-cont {
+    margin-top: 15%;
+    height: fit-content;
+    width: 14vw;
+}
+
+.p-acc-resizeimage {
+    display: block;
+    margin: 0 0 12vh 0;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10vw;
+    height: 15vh;
+}
+
+.p-acc-resizeimage img {
+    width: 100%;
+    height: auto;
+    border-radius: 100%;
+    border: 0.5vh solid #98c33e;
+    padding: 0.5vh;
+}
+
+#p-ip-title {
+    margin: 2% 0;
+}
+
+
+#myFile {
+    width: 14vw;
+    height: 2.5vh;
+}
+
+#file-upload-button {
+    border-color: white;
+}
+
+#submit-button {
+    width: 3vw;
+    height: 2.5vh;
+    border-color: #98c33e;
+}
+
+#submit-button:hover {
+    background-color: #98c33e;
+    color: white !important;
+}
+
+.p-lala-cont {
+    display: flex;
+    flex-direction: column;
+    margin: 3% 0 3% 10%;
+    width: 75%;
+}
+
+#p-inside-botaoeditar {
+    font-size: 150%;
+}

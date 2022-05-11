@@ -1,0 +1,43 @@
+.form-edit-patient {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#edit_phonenr {
+    width: 85%;
+    border: #2C363E solid 1px;
+    border-radius: 2px;
+}
+
+#edit_cellphonenr {
+    width: 85%;
+}
+
+#edit_morada {
+    width: 100%;
+}
+
+#edit_postal-code {
+    width: 85%;
+}
+
+#edit_locality {
+    width: 100%;
+}
+
+#edit_notes {
+    width: 100%;
+}
+
+.btn-editar-utente {
+    margin-top: 21%;
+    background: #8AB038;
+    color: white;
+}
+
+.btn-editar-utente:hover {
+    outline: none;
+    background: #799B31;
+    color: white;
+}

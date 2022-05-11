@@ -1,0 +1,96 @@
+.form-row-doctor {
+    margin-bottom: 10%;
+}
+
+#form-row-left-doctor {
+    width: 15%;
+}
+
+#form-row-left-doctor label {
+    margin-bottom: 2%;
+}
+
+#form-row-right-doctor {
+    width: 85%;
+    padding-left: 5%;
+}
+
+#form-row-right-doctor label {
+    margin-bottom: 2%;
+}
+
+#titulo {
+    border: none;
+    border-bottom: #2C363E solid 1px;
+    padding-bottom: 2%;
+    color: #2C363E;
+    margin-top: 20%;
+}
+
+#titulo:focus {
+    outline: none;
+}
+
+#especialidade {
+    border: none;
+    border-bottom: #2C363E solid 1px;
+    padding-bottom: 2%;
+    color: #2C363E;
+    width: 100%;
+    margin-top: 2%;
+}
+
+#especialidade:focus {
+    outline: none;
+}
+
+#cedula {
+    border: none;
+    border-bottom: #2C363E solid 1px;
+    padding-bottom: 1%;
+    color: #2C363E;
+}
+
+#cedula:focus {
+    outline: none;
+}
+
+#email_doctor {
+    background: none;
+    width: 100%;
+    border: none;
+    border-bottom: white solid 1px;
+    border-radius: 0;
+    padding-bottom: 1%;
+    color: white;
+}
+
+#email_doctor:focus {
+    outline: none;
+}
+
+#password_doctor {
+    background: none;
+    color: white;
+    border: none;
+    border-bottom: white solid 1px;
+    padding-bottom: 1%;
+}
+
+#password_doctor:focus {
+    outline: none;
+}
+
+#check_password_doctor {
+    background: none;
+    color: white;
+    border: none;
+    border-bottom: white solid 1px;
+    padding-bottom: 1%;
+    width: 100%;
+}
+
+#check_password_doctor {
+    outline: none;
+}
+

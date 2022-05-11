@@ -1,0 +1,16 @@
+
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(ï×»ÿÿÿÿÿ
+{
+java:S1488V"`Immediately return this expression instead of assigning it to the temporary variable "response".(ıÚùˆıÿÿÿÿ
+A
+java:S1481S",Remove this unused "headers" local variable.(ë±ş
+A
+java:S1481`",Remove this unused "headers" local variable.(ë±ş
+P
+java:S1854S";Remove this useless assignment to local variable "headers".(ë±ş
+V	java:S125X"<This block of commented-out lines of code should be removed.(¸µï¿ıÿÿÿÿ
+V	java:S125L"<This block of commented-out lines of code should be removed.(ãşıùÿÿÿÿ
+P
+java:S1854`";Remove this useless assignment to local variable "headers".(ë±ş
+{
+java:S1488d"`Immediately return this expression instead of assigning it to the temporary variable "response".(Ö¾å·úÿÿÿÿ

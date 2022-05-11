@@ -1,0 +1,15 @@
+
+e	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ…ÛB
+J
+java:S1128"5Remove this unused import 'javax.persistence.Column'.(ìûæH
+P
+java:S1128"5Remove this unused import 'javax.persistence.Entity'.(úƒßýûÿÿÿÿ
+`
+java:S1128"ERemove this unused import 'org.springframework.stereotype.Component'.(Þ÷Ñ¸ÿÿÿÿÿ
+S
+java:S1128"=Remove this unused import 'javax.persistence.GeneratedValue'.(¤®À‚
+G
+java:S1128"1Remove this unused import 'javax.persistence.Id'.(þ¹ÞÜ
+q	java:S116"WRename this field "dia_completo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢«‰²ýÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š‹Û¸þÿÿÿÿ
+b	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ…ÛB

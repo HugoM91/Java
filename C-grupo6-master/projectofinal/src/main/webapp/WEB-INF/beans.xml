@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+    <context:annotation-config />
+
+    <bean id="employee" class="com.example.controllers.LoginService" autowire="constructor">
+        <property name="username" value="password"/>
+    </bean>
+
+
+
+
+    <mvc:annotation-driven />
+    <mvc:resources mapping="/resources/**" location="/resources/" />
+
+
+
+</beans>

@@ -1,0 +1,23 @@
+
+s
+java:S3753"XAdd a call to "setComplete()" on the SessionStatus object in a "@RequestMapping" method.(Ù¼«Çÿÿÿÿÿ
+_
+java:S1854‘"<Remove this useless assignment to local variable "username".(´ø¹Âþÿÿÿÿ8œ ˆÓ„/
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8œ ˆÓ„/
+T
+java:S1128"9Remove this unused import 'org.springframework.ui.Model'.(ê†ýÿÿÿÿ
+X	java:S125h"<This block of commented-out lines of code should be removed.(ïÁŸ­8œ ˆÓ„/
+Z
+java:S1128
+"?Remove this unused import 'com.example.services.UtenteService'.(‰äëöýÿÿÿÿ
+‚
+java:S4144Ñ"dUpdate this method so that its implementation is not identical to "iniciarConsultaHome" on line 172.(ñ…Ýš8•ÄçÝ„/
+b
+java:S4684f"@Replace this persistent entity with a simple POJO or DTO object.(¾Ìïýùÿÿÿÿ8œ ˆÓ„/
+d
+java:S1128"IRemove this unused import 'org.springframework.web.servlet.ModelAndView'.(Ç¨ÿäûÿÿÿÿ
+K
+java:S1481"-Remove this unused "username" local variable.(™ä°­8œ ˆÓ„/
+Z
+java:S1854"<Remove this useless assignment to local variable "username".(ÚŒ•8œ ˆÓ„/
